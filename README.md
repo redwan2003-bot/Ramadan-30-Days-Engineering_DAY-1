@@ -48,5 +48,5 @@ I am a **Hardware Specialist and Backend Developer** focused on the intersection
 │   ├── Schematic_V1.0.pdf      # EasyEDA Pro exported schematic
 │   ├── Gerber_Files/           # Production-ready manufacturing files
 │   └── BOM_Redwan_Gateway.csv  # Detailed Bill of Materials
-├── /Firmware                   # C++ source code using FreeRTOS tasks
-
+├── /Firmware
+    └── Esp32_GateWay.ino       # C++ source code using FreeRTOS tasks
