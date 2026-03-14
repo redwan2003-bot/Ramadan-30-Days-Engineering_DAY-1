@@ -2,7 +2,7 @@
 
 **Phase 1 Completion: Industrial Infrastructure & Secure Gateway Systems**
 
-The **Redwan-Gateway** is a high-performance, industrial-grade IoT Gateway built on the **ESP32-S3 (Nano Banana)**. This project serves as a secure bridge between edge sensors and cloud-based analytical engines. It is designed to prioritize **Security (TLS/SSL)**, **Concurrency (FreeRTOS)**, and **Autonomous Reliability (Edge Intelligence)**.
+The **ESP32-Gateway** is a high-performance, industrial-grade IoT Gateway built on the **ESP32-S3 (Nano Banana)**. This project serves as a secure bridge between edge sensors and cloud-based analytical engines. It is designed to prioritize **Security (TLS/SSL)**, **Concurrency (FreeRTOS)**, and **Autonomous Reliability (Edge Intelligence)**.
 
 ---
 
